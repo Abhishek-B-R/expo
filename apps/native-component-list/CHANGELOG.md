@@ -1,5 +1,14 @@
 # native-component-list
 
+## 0.0.9
+
+### Patch Changes
+
+- Updated dependencies. ([#51742](https://github.com/expo/expo/pull/51742))
+  - expo-image@58.0.16
+  - test-suite@1.0.9
+  - expo@58.0.15
+
 ## 0.0.8
 
 ### Patch Changes
